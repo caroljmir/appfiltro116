@@ -1,0 +1,8 @@
+body{
+    border-color: black;
+    border-width: 6px;
+}
+
+canvas{
+    border: 2px solid black;
+}
